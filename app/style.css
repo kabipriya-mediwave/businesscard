@@ -6,10 +6,12 @@ body{
 }
 .card
 {
-   
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
     padding:20px;
     display: flex;
-    justify-content: space-center;
+    justify-content: space-around;
     
 }
 .border-blue{
